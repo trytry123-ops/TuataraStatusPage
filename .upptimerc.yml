@@ -24,11 +24,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /TuataraStatusPage
-  logoUrl: https://actionbot-proxy-actionbot.12k7ipg0ukzd.eu-de.codeengine.appdomain.cloud/demo/barcelona/549302fd5d4f3dff147b7068dc6ed9f5.svg
-  name: ActionBot_1
+  logoUrl: https://actionbot-proxy-actionbot.12k7ipg0ukzd.eu-de.codeengine.appdomain.cloud/demo/barcelona/45cfa8540d91ceee524e4808d5db7210.svg
+  name: ActionBot
   url: https://action.bot/
   introTitle: "**ActionBot powered by Tuatara**"
-  introMessage: Welcome to ActionBot status page, here you can see running services and open issues.
+  introMessage: Welcome to the ActionBot status page. Here, you can view active services and ongoing issues.
   navbar:
     - title: Status
       href: https://trytry123-ops.github.io/TuataraStatusPage
