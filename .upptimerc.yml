@@ -25,7 +25,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /TuataraStatusPage
   logoUrl: https://actionbot-proxy-actionbot.12k7ipg0ukzd.eu-de.codeengine.appdomain.cloud/demo/barcelona/549302fd5d4f3dff147b7068dc6ed9f5.svg
-  name: ActionBot
+  name: ActionBot_1
   url: https://action.bot/
   introTitle: "**ActionBot powered by Tuatara**"
   introMessage: Welcome to ActionBot status page, here you can see running services and open issues.
