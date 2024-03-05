@@ -29,12 +29,12 @@ status-website:
   url: https://action.bot/
   introTitle: "**ActionBot powered by Tuatara**"
   introMessage: Welcome to the ActionBot status page. Here, you can view active services and ongoing issues.
-  i18n:
-    - footer: Status
   navbar:
     - title: Status
       href: https://trytry123-ops.github.io/TuataraStatusPage
     - title: Tuatara
       href: https://tuatara.pl/
+  i18n:
+    - footer: Status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
