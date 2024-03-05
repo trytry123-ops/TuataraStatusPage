@@ -29,6 +29,7 @@ status-website:
   url: https://action.bot/
   introTitle: "**ActionBot powered by Tuatara**"
   introMessage: Welcome to the ActionBot status page. Here, you can view active services and ongoing issues.
+  theme: light
   navbar:
     - title: Status
       href: https://trytry123-ops.github.io/TuataraStatusPage
