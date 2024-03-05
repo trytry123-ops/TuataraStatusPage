@@ -34,6 +34,7 @@ status-website:
       href: https://trytry123-ops.github.io/TuataraStatusPage
     - title: Tuatara
       href: https://tuatara.pl/
-
+  i18n:
+    footer: ©2024 - TUATARA. All rights reserved.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
