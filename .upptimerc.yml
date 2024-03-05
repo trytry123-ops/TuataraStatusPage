@@ -35,6 +35,6 @@ status-website:
     - title: Tuatara
       href: https://tuatara.pl/
 i18n:
-    - footer: Status
+    footer: Status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
