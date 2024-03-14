@@ -4,10 +4,10 @@
     "url": "https://action.bot/",
     "icon": "https://icons.duckduckgo.com/ip3/action.bot.ico",
     "slug": "action-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1099,
@@ -15,14 +15,16 @@
     "timeWeek": 1089,
     "timeMonth": 1099,
     "timeYear": 1099,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-14": 1
+    }
   },
   {
     "name": "Tuatara.pl",
     "url": "https://tuatara.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/tuatara.pl.ico",
     "slug": "tuatara-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 891,
     "timeMonth": 927,
     "timeYear": 927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-14": 0
+    }
   },
   {
     "name": "pepper",
