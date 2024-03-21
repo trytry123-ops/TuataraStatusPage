@@ -6,7 +6,7 @@ sites:
   - name: Action.bot
     url: https://action.bot/
   - name: Tuatara.pl
-    url: https://tuatara.pl/
+    url: $ACB
   - name: pepper
     url: https://www.pepper.pl/nowe
   - name: Wikipedia
