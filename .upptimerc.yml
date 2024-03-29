@@ -6,7 +6,7 @@ sites:
   - name: Action.bot
     url: $ACTIONBOT_URL
   - name: Tuatara.pl
-    url: https://tuatara.pl/
+    url: https://mocktesttuatara.pl/
   - name: pepper
     url: https://www.pepper.pl/nowe
   - name: Wikipedia
