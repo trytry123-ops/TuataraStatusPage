@@ -38,3 +38,4 @@ i18n:
 
 workflowSchedule:
   uptime: "*/10 * * * *"
+
