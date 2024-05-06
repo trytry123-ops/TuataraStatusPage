@@ -6,13 +6,6 @@ sites:
   - name: Action.bot
     url: $ACTIONBOT_URL
   - name: Tuatara.pl
-    url: https://mocktesttuatara.pl/
-  - name: pepper
-    url: https://www.pepper.pl/nowe
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News2
-    url: https://news.ycombinator.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
