@@ -6,6 +6,11 @@ sites:
   - name: Action.bot
     url: $ACTIONBOT_URL
   - name: Tuatara.pl
+    url: $TUATARA_URL
+  - name: Fintin.pl
+    url: $FINTIN_URL
+  - name: Tasil.com
+    url: $TASIL_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
