@@ -4,11 +4,11 @@ repo: TuataraStatusPage # The name of this repository.
 
 sites:
   - name: Action.bot
-    url: $ACTIONBOT_URL
+    url: https://action.bot/
   - name: Tuatara.pl
-    url: $TUATARA_URL
+    url: https://tuatara.pl/
   - name: Fintin.pl
-    url: $FINTIN_URL
+    url: https://fintin.pl/pl/
   - name: Tasil.com
     url: https://tasil.com/
 
