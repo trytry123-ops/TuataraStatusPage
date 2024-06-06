@@ -10,7 +10,7 @@ sites:
   - name: Fintin.pl
     url: $FINTIN_URL
   - name: Tasil.com
-    url: $TASIL_URL
+    url: https://tasil.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
