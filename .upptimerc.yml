@@ -3,9 +3,9 @@ owner: trytry123-ops # Your GitHub organization or username, where this reposito
 repo: TuataraStatusPage # The name of this repository.
 
 sites:
-  - name: Action.bot1
+  - name: Action.bot
     url: https://action.bot/
-  - name: Tuatara.pl2
+  - name: Tuatara.pl
     url: https://tuatara.pl/
   - name: Fintin.pl
     url: https://fintin.pl/pl/
