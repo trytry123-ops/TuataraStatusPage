@@ -4,9 +4,9 @@ repo: TuataraStatusPage # The name of this repository.
 
 sites:
   - name: Action.bot
-    url: https://action.bot/
+    url: https://www.google.pl/
   - name: Tuatara.pl
-    url: https://tuatara.pl/
+    url: https://www.google.pl/
   - name: Fintin.pl
     url: https://fintin.pl/pl/
   - name: Tasil.com
