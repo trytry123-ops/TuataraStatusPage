@@ -4,28 +4,30 @@
     "url": "https://action.bot/",
     "icon": "https://icons.duckduckgo.com/ip3/action.bot.ico",
     "slug": "action-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1120,
     "timeDay": 1001,
     "timeWeek": 1123,
     "timeMonth": 1092,
     "timeYear": 1120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 3
+    }
   },
   {
     "name": "Tuatara.pl",
     "url": "https://tuatara.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/tuatara.pl.ico",
     "slug": "tuatara-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1094,
@@ -33,17 +35,19 @@
     "timeWeek": 1185,
     "timeMonth": 1140,
     "timeYear": 1094,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 2
+    }
   },
   {
     "name": "Fintin.pl",
     "url": "https://fintin.pl/pl/",
     "icon": "https://icons.duckduckgo.com/ip3/fintin.pl.ico",
     "slug": "fintin-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1531,
@@ -51,14 +55,16 @@
     "timeWeek": 1468,
     "timeMonth": 1544,
     "timeYear": 1531,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 2
+    }
   },
   {
     "name": "Tasil.com",
     "url": "https://tasil.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tasil.com.ico",
     "slug": "tasil-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 1559,
     "timeMonth": 1648,
     "timeYear": 1660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   }
 ]
