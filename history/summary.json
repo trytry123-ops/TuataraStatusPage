@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/action.bot.ico",
     "slug": "action-bot",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1121,
-    "timeDay": 1149,
-    "timeWeek": 1145,
-    "timeMonth": 1098,
-    "timeYear": 1121,
-    "dailyMinutesDown": {
-      "2024-07-10": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1122,
+    "timeDay": 1281,
+    "timeWeek": 1157,
+    "timeMonth": 1144,
+    "timeYear": 1122,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tuatara.pl",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tuatara.pl.ico",
     "slug": "tuatara-pl",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1092,
-    "timeDay": 943,
-    "timeWeek": 1151,
-    "timeMonth": 1133,
-    "timeYear": 1092,
-    "dailyMinutesDown": {
-      "2024-07-10": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1090,
+    "timeDay": 951,
+    "timeWeek": 1093,
+    "timeMonth": 1179,
+    "timeYear": 1090,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fintin.pl",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fintin.pl.ico",
     "slug": "fintin-pl",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1529,
-    "timeDay": 1343,
-    "timeWeek": 1462,
-    "timeMonth": 1541,
-    "timeYear": 1529,
-    "dailyMinutesDown": {
-      "2024-07-10": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1526,
+    "timeDay": 1408,
+    "timeWeek": 1412,
+    "timeMonth": 1501,
+    "timeYear": 1526,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tasil.com",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasil.com.ico",
     "slug": "tasil-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1654,
-    "timeDay": 1452,
-    "timeWeek": 1540,
-    "timeMonth": 1641,
-    "timeYear": 1654,
-    "dailyMinutesDown": {
-      "2024-07-10": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1647,
+    "timeDay": 1378,
+    "timeWeek": 1509,
+    "timeMonth": 1606,
+    "timeYear": 1647,
+    "dailyMinutesDown": {}
   }
 ]
